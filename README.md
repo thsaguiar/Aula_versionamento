@@ -1,2 +1,7 @@
 # Aula_versionamento
 Here, we are going to put the cods about github x VScode
+
+git -v < indicará qual é a versão do git instalado no computador. >
+git clone linkrepositorio < o git instalado no computador + o terminal do VS code sincronizará/baixará os arquivos da parte do link >
+
+git add . < adiciona a alteração ao arquivo >
