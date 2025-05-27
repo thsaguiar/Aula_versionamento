@@ -11,3 +11,4 @@ git config --global user.email "" < para sincronizar, pode ser necessário adici
 git config --global user.name "" < para sincronizar, pode ser necessário adicionar um nome de usuário >
 
 git push origin main < git push é o comando que faz upload, origin é o repositorio remoto e main é o nome do ramo (branch) que está sendo enviado >
+git pull origin main < faz o download dos arquivos que estão no github. se alguém mexeu no arquivo durante o tempo que eu estava mexendo, isso fará com que eu sempre tenha os arquivos atualizados na minha máquina >
