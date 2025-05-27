@@ -20,3 +20,9 @@ git pull origin main < faz o download dos arquivos que estão no github. se algu
 clear < limpa a tela de comandos >
 
 git log < acessa todo o historico de alteracao >
+
+git log --oneline < resume o commit em uma linha, simplificando a visualização dela no terminal>
+
+git log --stat < exige uma estatistica de quais arquivos foram alterados e a quantidade de linhas alteradas de maneira simplificada Pode ser usado --stat -- oneline em uma única linha de comando. >
+
+git log -p < irá exigir as alterações que foram realizadas em cada commit. >
