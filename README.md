@@ -31,3 +31,5 @@ git log --author e o --grep < consegue pesquisar sobre um determinado autor ou p
 
 git log --graph < Exibe em modo grafito o caminho de cada commit e suas ramificacoes >
 
+git checkout id commit ou nome branch < visualiza as linhas no ponto do commit escolhido. serve para testar/visualizar como estava os codigos >
+
