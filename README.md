@@ -33,3 +33,6 @@ git log --graph < Exibe em modo grafito o caminho de cada commit e suas ramifica
 
 git checkout id commit ou nome branch < visualiza as linhas no ponto do commit escolhido. serve para testar/visualizar como estava os codigos >
 
+git revert < cria um novo commit sem as alterações do commit realizado :wq sai do comando >
+
+git reset < apaga tudo que foi realizado até o commit especificado >
