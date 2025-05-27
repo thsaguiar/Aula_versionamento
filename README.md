@@ -40,3 +40,5 @@ git reset < apaga tudo que foi realizado até o commit especificado >
 Criação de branch (ramificação)
 
 git branch nomedabranch < cria uma ramificação a partir de um determinado ponto do projeto >
+
+git branch -d nomedabranch < deleta a branch criada >
