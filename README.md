@@ -41,4 +41,6 @@ Criação de branch (ramificação)
 
 git branch nomedabranch < cria uma ramificação a partir de um determinado ponto do projeto >
 
-git branch -d nomedabranch < deleta a branch criada >
+git branch -d nomedabranch < deleta a branch criada se vazia >
+
+git branch -D nomedabranch < deleta a branch se já tem algo criado dentro dela. usar com atençao >
