@@ -29,3 +29,5 @@ git log -p < irá exigir as alterações que foram realizadas em cada commit. >
 
 git log --author e o --grep < consegue pesquisar sobre um determinado autor ou por algum texto que tenha sido escrito na linha do tempo>
 
+git log --graph < Exibe em modo grafito o caminho de cada commit e suas ramificacoes >
+
