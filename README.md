@@ -44,3 +44,8 @@ git branch nomedabranch < cria uma ramificação a partir de um determinado pont
 git branch -d nomedabranch < deleta a branch criada se vazia >
 
 git branch -D nomedabranch < deleta a branch se já tem algo criado dentro dela. usar com atençao >
+
+MESCLANDO BRANCHES: quando há duas ramificações e deseja-se uni-las.
+
+
+
