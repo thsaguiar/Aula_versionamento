@@ -36,3 +36,7 @@ git checkout id commit ou nome branch < visualiza as linhas no ponto do commit e
 git revert < cria um novo commit sem as alterações do commit realizado :wq sai do comando >
 
 git reset < apaga tudo que foi realizado até o commit especificado >
+
+Criação de branch (ramificação)
+
+git branch nomedabranch < cria uma ramificação a partir de um determinado ponto do projeto >
